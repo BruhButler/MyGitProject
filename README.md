@@ -1,2 +1,2 @@
-# Assignment2
+#MyGitProject
 Work for computer concepts assignment 2
